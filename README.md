@@ -1,2 +1,0 @@
-# vrART
- vr for artists
